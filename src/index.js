@@ -9,6 +9,7 @@ const routes = {
   "gcr.libcuda.so": "https://gcr.io",
   "k8s-gcr.libcuda.so": "https://k8s.gcr.io",
   "k8s.libcuda.so": "https://registry.k8s.io",
+  "registry.k8s.io": "https://registry.k8s.io",  // test
   "ghcr.libcuda.so": "https://ghcr.io",
   "cloudsmith.libcuda.so": "https://docker.cloudsmith.io",
 };
